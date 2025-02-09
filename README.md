@@ -12,7 +12,7 @@
 
 - **Name**: Oscar Castellanos
 - **Email**: <ocastellanosc@miumg.edu.gt>
-- **GitHub**: [Oscar Castellanos](https://github.com/rortizs)
+- **GitHub**: [Oscar Castellanos](https://github.com/oscarCastellanos01)
 
 ## LICENSE
 
